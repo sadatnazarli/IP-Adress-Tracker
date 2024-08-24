@@ -40,13 +40,12 @@ This is a simple IP Address Tracker web application built with HTML, CSS, JavaSc
 
 This project uses the IPify API for fetching IP geolocation data. To use this project, you'll need an API key from IPify.
 
-Sign up for an API key on IPify. https://geo.ipify.org/
+Sign up for an API key on [IPify](https://geo.ipify.org/).
 Add your API key in the script.js file:
 
-````javascript
-```Copy code
-const API_KEY = 'your-api-key-here';
-````
+```javascript
+const API_KEY = "your-api-key-here";
+```
 
 ## Map Integration
 
@@ -54,7 +53,7 @@ The project uses Leaflet.js and OpenStreetMap for displaying the map. The map au
 
 ## Credits
 
-Challenge by Frontend Mentor.
+Challenge by [Frontend Mentor](https://www.frontendmentor.io/).
 Coded by Sadat Nazarli.
 
 ### Changes:
