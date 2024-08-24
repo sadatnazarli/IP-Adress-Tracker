@@ -2,7 +2,7 @@
 
 This is a simple IP Address Tracker web application built with HTML, CSS, JavaScript, and Leaflet.js (using OpenStreetMap). The app fetches the geolocation data of an IP address or domain using the IPify API and displays the corresponding location on a map.
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](./design/desktop-preview.jpg)
 
 ## Features
 
