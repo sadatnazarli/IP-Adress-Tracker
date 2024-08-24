@@ -55,11 +55,3 @@ The project uses Leaflet.js and OpenStreetMap for displaying the map. The map au
 
 Challenge by [Frontend Mentor](https://www.frontendmentor.io/).
 Coded by Sadat Nazarli.
-
-### Changes:
-
-- **Links**: Added correct links for IPify and Frontend Mentor.
-- **Credits**: Updated to include your name and GitHub profile.
-- **Code Formatting**: Fixed the formatting of the API key section and ensured everything is properly formatted in Markdown.
-
-Let me know if you need further edits or adjustments!
