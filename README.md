@@ -22,7 +22,7 @@ This is a simple IP Address Tracker web application built with HTML, CSS, JavaSc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ip-address-tracker.git
+   git clone https://github.com/sadatnazarli/ip-address-tracker.git
    cd ip-address-tracker
    ```
 2. Open index.html in your browser:
@@ -41,6 +41,7 @@ This is a simple IP Address Tracker web application built with HTML, CSS, JavaSc
 This project uses the IPify API for fetching IP geolocation data. To use this project, you'll need an API key from IPify.
 
 Sign up for an API key on [IPify](https://geo.ipify.org/).
+
 Add your API key in the script.js file:
 
 ```javascript
